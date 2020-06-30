@@ -1,3 +1,3 @@
 # BlindChat
 
-This is a chat application using FireBase Database. User can chat with other anonomously.
+This is a chat application using FireBase Database. Users can chat with each others in anonomous mode.
